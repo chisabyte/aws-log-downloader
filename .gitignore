@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore downloaded log files
+*.log
+*.txt
+downloaded_logs.txt
